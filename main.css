@@ -8,5 +8,21 @@ html {
     margin-bottom: 40px;
 }
 .texto {
-    font-size: 2rem;
+    font-size: 3rem;
+}
+.seccion2{
+    background-image: url("./images/phone-2.a0e481df3d808370cf1d.jpg");
+    background-attachment: fixed;
+    height: 450px;
+    padding-left: 10%;
+    padding-top: 100px;
+    text-align: left;
+    align-self: center;
+   
+}
+.btn {
+    color: white;
+    font-size: 1rem;
+    border-radius: 15px;
+    border: solid white 1.5px;
 }
